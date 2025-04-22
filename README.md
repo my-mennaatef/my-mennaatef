@@ -10,7 +10,7 @@ I'm a passionate Computer Science student at Faculty of Computers & AI - MTI Uni
 ### About Me
 
 - Computer Science & AI student at MTI Universtiy   
-- Learning: Advanced algorithms, cybersecurity, Linux, and web technologies  
+- Learning: Advanced algorithms, cybersecurity, Linux 
 
 ---
 
@@ -22,7 +22,6 @@ I'm a passionate Computer Science student at Faculty of Computers & AI - MTI Uni
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 #### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Command Line](https://img.shields.io/badge/CLI-000000?style=flat&logo=gnubash&logoColor=white)
 
@@ -30,5 +29,6 @@ I'm a passionate Computer Science student at Faculty of Computers & AI - MTI Uni
 
 ### Concepts & Areas of Interest
 
-- Object-Oriented Programming (OOP) & Software Design  
-- Data Structures & Algorithms  
+- AI
+- cybersecurity
+  
