@@ -14,9 +14,13 @@
 
 ### 🏆 Route Academy Experienc
 -Actively developing practical skills in artificial intelligence and machine learning.
+
 -Engaging in real-world projects and interactive labs to bridge theory and practice.
+
 -Collaborating with peers and mentors to tackle complex challenges.
+
 -Strengthening abilities in teamwork, communication, and project coordination.
+
 
 ---
 
@@ -40,7 +44,9 @@
 ------
 ### 📬 Get in Touch
 -📧 Email: mennaatef541@Gmail.com
+
 -💼 LinkedIn: www.linkedin.com/in/menna-atef-73a934339
+
 -🐙 GitHub
 
 
