@@ -10,9 +10,16 @@
 - 🎓 Third-year Computer Science student at MTI University  
 - 🧱 Building hands-on projects in algorithms, AI
 - 📚 Currently exploring Advanced Algorithms and working on AI & ML projects
-  
+---
+
+### 🏆 Route Academy Experienc
+-Actively developing practical skills in artificial intelligence and machine learning.
+-Engaging in real-world projects and interactive labs to bridge theory and practice.
+-Collaborating with peers and mentors to tackle complex challenges.
+-Strengthening abilities in teamwork, communication, and project coordination.
 
 ---
+
 
 ### 🛠️ Tech Stack
 
@@ -28,6 +35,13 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+------
+### 📬 Get in Touch
+-📧 Email: mennaatef541@Gmail.com
+-💼 LinkedIn: www.linkedin.com/in/menna-atef-73a934339
+-🐙 GitHub
 
 
 
