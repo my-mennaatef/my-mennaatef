@@ -10,8 +10,8 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Third-year Computer Science student at MTI University  
-- 🧱 Building hands-on projects in algorithms, AI , frontend
-- 📚 Currently learning Advanced Algorithms, Linux, AI, ML
+- 🧱 Building hands-on projects in algorithms, AI
+- 📚 Currently learning Advanced Algorithms, AI, ML
   
 
 ---
