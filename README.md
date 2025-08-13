@@ -4,11 +4,9 @@
     Computer Science Student | AI & Software Development Enthusiast
   </marquee>
 </h3>
-
 <p align="center">
-💻 Passionate about software systems that work, scale, and stay secure.
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7E400&size=22&center=true&vCenter=true&width=800&lines=Computer+Science+Student+|+AI+%26+Software+Development+Enthusiast" />
 </p>
-
 ---
 
 ### 🧑‍💻 About Me
