@@ -22,6 +22,15 @@
 -Strengthening abilities in teamwork, communication, and project coordination.
 
 
+### 🎓 NTI Training – Data Analysis Track
+
+* Completed hands-on training at **National Telecommunication Institute (NTI)** in the **Data Analysis** track.
+* Gained strong practical skills in **Python**, **Pandas**, **NumPy**, **Matplotlib**, and **data preprocessing**.
+* Worked on real datasets to perform **EDA**, visualization, and data cleaning.
+* Developed an understanding of **statistical analysis**, **data pipelines**, and **reporting insights**.
+* Enhanced problem-solving and analytical thinking through project-based learning.
+
+
 ---
 
 
@@ -39,6 +48,9 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
 
 ------
